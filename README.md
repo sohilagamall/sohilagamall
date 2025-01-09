@@ -1,5 +1,5 @@
 
-# Hi 👋 I am sohila! 
+# Hi, I am sohila! 
 I am a cs student , frontend developer with passion in problem solving.
 
 ## 📈 GitHub Stats

@@ -1,6 +1,6 @@
 
 # Hi, I am sohila! 
-I am a cs student , frontend developer in her first steps with passion in problem solving.
+I am a cs student , Full stack developer in her first steps with passion in problem solving.
 <br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/sohila-gamal-70a503312)
 
